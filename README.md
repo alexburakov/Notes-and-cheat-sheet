@@ -1,4 +1,4 @@
 # Notes-and-cheat-sheet
 
-## Git
+### Git
 [Git command](https://github.com/alexburakov/Notes-and-cheat-sheet)
